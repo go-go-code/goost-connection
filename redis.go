@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
+	logger "github.com/go-go-code/goost-logger"
 	"github.com/go-redis/redis/v8"
-	logger "gitlab.com/gr50y.world/goost-logger"
 )
 
 var _redis *redisConnection

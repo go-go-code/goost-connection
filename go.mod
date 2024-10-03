@@ -8,7 +8,6 @@ require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/jmoiron/sqlx v1.4.0
-	gitlab.com/gr50y.world/goost-logger v1.6.0
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/gorm v1.25.10
 )
@@ -44,7 +43,6 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
-	gitlab.com/gr50y.world/goost-guard v1.1.2 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/arch v0.8.0 // indirect
